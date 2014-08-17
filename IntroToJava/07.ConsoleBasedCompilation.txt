@@ -1,0 +1,12 @@
+ shift + десен бутон + open new command prompt window here
+
+ set path=%path%;C:Program Files\Java\jdk1.7.0_55\bin
+
+ javac SumTwoNumbers.java
+
+ java SumTwoNumbers
+
+	
+ ѕри мен обаче излиза следни€ error:Could not find or load main class SumTwoNumbers.java.
+ ƒоста гледах в интернет как да го оправ€,хората говор€т за настройването на "ClassPath",но така и 
+ не усп€х да разбера как да го оправ€.	
